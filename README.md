@@ -61,7 +61,7 @@ $ python Fuck_by_ALAMiN.py
 #### [~] SINGLE COMMAND
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Cyber-ALAMiN/Bypass ; cd Bypass ; Fuck_by_ALAMiN.py
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Cyber-ALAMiN/Bypass ; cd Bypass ; python Fuck_by_ALAMiN.py
 ```
 
 #### MY SOCIAL MEDIA
